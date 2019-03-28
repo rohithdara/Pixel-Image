@@ -1,5 +1,5 @@
 # Pixel-Image
-This program can fade or blur an image. It can also solve a specific puzzle. The images must be in a PPM format. It runs the desired function based on the command line argument.
+This program can fade or blur an image. It can also solve a specific puzzle. The images must be in a PPM format. It runs the desired function based on the command line argument. Do not include the <'s and >'s in the command line when running the program.
 
 To blur an image:
 ```
